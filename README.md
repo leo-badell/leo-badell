@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leo-badell
 - 👀 I’m interested in QA testing technologies. 
-- 🌱 I’m currently learning SQL with PostgreSQL, HTML, CSS, Javascript. 
+- 🌱 I’m currently learning SQL with PostgreSQL, HTML, CSS and Javascript. 
 - 💞️ I’m looking to collaborate on test cases. 
 - 📫 How to reach me leonardobadell@hotmail.com
 
