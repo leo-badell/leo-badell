@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leo-badell
-- 👀 I’m QA tester. 
-- 🌱 I've been learning SQL with SQLserver, HTML, CSS and Javascript. 
+- 👀 I’m a QA tester with ISTQB certification 
+- 🌱 I've been learning SQL with SQL server, HTML, CSS, Javascript and Cypress. 
 - 💞️ I’m looking to collaborate on test cases. 
-- I have an intermediate knowledge with Azure DevOps. 
+- I have intermediate knowledge of Azure. 
 - 📫 How to reach me leonardobadell@hotmail.com
 
 <!---
