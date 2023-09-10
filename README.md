@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @leo-badell
 - 👀 I’m a QA tester with ISTQB certification 
-- 🌱 I've been learning SQL with SQL server, HTML, CSS, Javascript and Cypress. 
-- 💞️ I’m looking to collaborate on test cases. 
-- I have intermediate knowledge of Azure. 
+- 🌱 I possess knowledge of HTML and CSS, and I'm at the beginning of my journey with Cypress. 
+- 😎I’m looking to collaborate on test cases. 
+- 💻I have intermediate knowledge of Azure.
+- 🖱️I also have experience in API testing with Postman and Swagger.
 - 📫 How to reach me leonardobadell@hotmail.com
 
 <!---
