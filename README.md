@@ -4,7 +4,7 @@
 - 😎I’m looking to collaborate on test cases. 
 - 💻 I also have experience with Azure.
 - 🖱️ And I have experience in API testing with Postman and Swagger.
-- 📫 How to reach me leonardobadell@hotmail.com
+- 📫 How to reach me leonardobadell@outlook.com
 
 <!---
 leo-badell/leo-badell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
