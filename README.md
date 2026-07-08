@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leonardo "Badell"
+# 👋 Hi, I'm Leonardo Badell
 
 ### 🚀 QA Engineer | Data Analyst | SQL Specialist
 
@@ -42,7 +42,7 @@ predictive analytics and data engineering pipelines.
 
 ## 📬 Get In Touch
 
-- 📧 Proton Mail: **[leonardobadell@proton.me](mailto:leonardobadell@proton.me)**
+- 📧 Proton Mail: **[leonardobadell@proton.me](mailto:leonardobadell@proton.com)**
 - 📧 Outlook: **[leonardobadell@outlook.com](mailto:leonardobadell@outlook.com)**
 - 🌐 Open to collaboration on data projects and test automation
 
